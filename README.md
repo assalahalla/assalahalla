@@ -7,6 +7,7 @@
 
 
 
+<h2> As an INTP person </h2>
 
 - 🧩 I use my logical, critical and analytic thinking to solve probelms 
 
@@ -17,6 +18,8 @@
 - 💪 My strengths are :  **Analytical, Curious & Objective**
 
 - ❎ My Weaknesses are : **Dissatisfied, Multitasking person, Perfectionist**
+
+<h2>  what's up ! </h2>
 
 - 🌱 I’m currently learning AWS 
 
