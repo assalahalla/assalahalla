@@ -26,8 +26,6 @@
 
 - 📫 How to reach me **assala_halla@outlook.com**
 
-[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=9gx2r5h2i3i3gkvoev9dlfhbv&cover_image=true&theme=default&bar_color_cover=true)](https://github.com/kittinan/spotify-github-profile)
-
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
