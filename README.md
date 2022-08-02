@@ -1,11 +1,25 @@
 <h1 align="center">Hi 👋, I'm Assala HALLA</h1>
-<h3 align="center">A Cloud & DevOps Engineer</h3>
+<h3 align="center">A Cloud & DevOps Developer</h3>
 
-- 🌱 I’m currently learning **DevSecOp**
+- 🧩 I use my logical, critical and analytic thinking to solve probelms 
 
-- 💬 Ask me about **python, Openstack cloud**
+- ♟️ I’m addicted to SUDOKU, play chess sometimes
+
+- 🔗 I enjoy examining complex system 
+
+- 💪 My strengths are :  **analytical, curious & objective**
+
+- ❎ My Weaknesses are : **Dissatisfied, Multitasking person, Perfectionist**
+
+- 🌱 I’m currently learning AWS 
+
+- 🖥️ I’m working on an Ecommerce Multivendor Marketplace project
+
+
+- 💬 Ask me about **python, serverless, **
 
 - 📫 How to reach me **assala_halla@outlook.com**
+
 
 
 <h3 align="left">Connect with me:</h3>
