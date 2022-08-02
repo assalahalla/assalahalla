@@ -7,7 +7,7 @@
 
 
 
-<h2> As an INTP person </h2>
+<h2> As an INTP person : </h2>
 
 - 🧩 I use my logical, critical and analytic thinking to solve probelms 
 
