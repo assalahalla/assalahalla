@@ -14,7 +14,7 @@
 
 - 🔗 I enjoy examining complex system 
 
-- 💪 My strengths are :  **analytical, curious & objective**
+- 💪 My strengths are :  **Analytical, Curious & Objective**
 
 - ❎ My Weaknesses are : **Dissatisfied, Multitasking person, Perfectionist**
 
