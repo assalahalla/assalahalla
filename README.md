@@ -16,7 +16,7 @@
 - 🖥️ I’m working on an Ecommerce Multivendor Marketplace project
 
 
-- 💬 Ask me about **python, serverless, **
+- 💬 Ask me about **python, serverless**
 
 - 📫 How to reach me **assala_halla@outlook.com**
 
