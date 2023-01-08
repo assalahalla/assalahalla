@@ -21,7 +21,9 @@
 
 <h2>  what's up ! </h2>
 
-- 🌱 I’m currently learning AWS 
+- 🏅 I'm Certified AWS Cloud practitioner | Fortinet NSE1 NSE2 | Python pcap 31-03
+
+- 🌱 I’m currently preparing for AWS Solution Architect certification
 
 - 🖥️ I’m working on an Ecommerce Multivendor Marketplace project
 
