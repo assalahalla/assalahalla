@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Assala HALLA</h1>
 <h3 align="center">A Cloud & DevOps Developer</h3>
+<h4 align="center"> 🏅 I'm Certified AWS Cloud practitioner | Fortinet NSE1 NSE2 | Python pcap 31-03 </h4>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -20,8 +21,6 @@
 - ❎ My Weaknesses are : **Dissatisfied, Multitasking person, Perfectionist**
 
 <h2>  what's up ! </h2>
-
-- 🏅 I'm Certified AWS Cloud practitioner | Fortinet NSE1 NSE2 | Python pcap 31-03
 
 - 🌱 I’m currently preparing for AWS Solution Architect certification
 
