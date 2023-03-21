@@ -25,10 +25,6 @@
 
 - 🌱 I’m currently preparing for AWS Solution Architect certification
 
-- 🖥️ I’m working on an Ecommerce Multivendor Marketplace project
-
-- 💬 Ask me about **python, serverless**
-
 - 📫 How to reach me **assala_halla@outlook.com**
 
 
