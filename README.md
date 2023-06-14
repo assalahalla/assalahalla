@@ -28,13 +28,6 @@
 - 📫 How to reach me **assala_halla@outlook.com**
 
 
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://codepen.io/assalahalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/codepen.svg" alt="assalahalla" height="30" width="40" /></a>
-<a href="https://twitter.com/assalahalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="assalahalla" height="30" width="40" /></a>
-<a href="https://stackoverflow.com/users/asaslahalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/stack-overflow.svg" alt="asaslahalla" height="30" width="40" /></a>
-<!-- <a href="https://instagram.com/assalahalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="assalahalla" height="30" width="40" /></a> -->
-<a href="https://hashnode.com/@assala" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/hashnode.svg" alt="@assala" height="30" width="40" /></a>
-<a href="https://medium.com/@assalahalla" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@assalahalla" height="30" width="40" /></a>
+
 </p>
 
