@@ -1,6 +1,7 @@
 <h1 align="center">Hi 👋, I'm Assala HALLA</h1>
 <h3 align="center">A Cloud & DevOps Engineer</h3>
 <h4 align="center"> 🏅 I'm Certified AWS Cloud practitioner | Fortinet NSE1 NSE2 | Python pcap 31-03 </h4>
+<h5 align="center"> Gitlab Ansible Terraform Docker K8s ELK-stack Prometheus & Grafana </h5>
 
 
 <h3 align="left">Languages and Tools:</h3>
@@ -13,7 +14,7 @@
 
 - 🧩 I use my logical, critical and analytic thinking to solve probelms 
 
-- ♟️ I’m addicted to SUDOKU, play chess sometimes
+- ♟️ I’m addicted to SUDOKU
 
 - 🔗 I enjoy examining complex system 
 
@@ -23,7 +24,7 @@
 
 <h2>  what's up ! </h2>
 
-- 🌱 I’m currently preparing for AWS Solution Architect certification
+- 🌱 I’m currently preparing for The Certified Kubernetes Administrator (CKA)
 
 - 📫 How to reach me **assala_halla@outlook.com**
 
